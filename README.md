@@ -1,16 +1,24 @@
-### Hi there 👋
+Hey, I'm Charly ! 👋
 
-<!--
-**charlyhayoz/charlyhayoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤓 Full Stack Developer
+🤖 PHP, Javascript, C#, Java
+💾 Laravel, React, Angular, Ionic, WordPress
+🏕️ Unity 3D, Unreal Engine
 
-Here are some ideas to get you started:
+🇨🇭 Living in Lausanne, Switzerland
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+💬 Ask me about PHP, Laravel, Javascript, Ionic, Angular
+😄 Pronouns: He/Him
+📫 Reach me by email is best
+
+What I'm working on 👨‍💻
+💎 Creator of [OpenSynaps.com](https://opensynaps.com)
+🔖 Creator of [Hub.Law](https://hub.law)
+🔍 Consultant for [EnginXr](https://enginxr.com)
+
+
+
+Find me elsewhere 🌎
+🚀 [Site](https://charlyhayoz.ch/)
+💼 [LinkedIn](https://www.linkedin.com/in/charlyhayoz/)
