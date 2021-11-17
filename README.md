@@ -5,7 +5,7 @@
 * 💾 Back-end : Laravel, WordPress, Node.js
 * 🏕️ 3D : Unity 3D, Unreal Engine
 
-## Informations
+## Informations ℹ️
 * 🇨🇭 Living in Lausanne, Switzerland
 * 💬 French, English, German
 * 😄 Pronouns: He/Him
