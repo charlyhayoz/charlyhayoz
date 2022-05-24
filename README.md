@@ -8,7 +8,6 @@
 ## Informations ℹ️
 * 🇨🇭 Living in Lausanne, Switzerland
 * 💬 French, English, German
-* 😄 Pronouns: He/Him
 * 📫 Reach me by email is best
 
 ## What I'm working on 👨‍💻
